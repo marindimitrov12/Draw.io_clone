@@ -1,0 +1,48 @@
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.Form1.resources
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.GameWindows.resources
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.pdb
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\bin\Debug\SocketServer.cs.dll
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\bin\Debug\SocketServer.cs.pdb
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.csproj.CopyComplete
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.clientConnectingWindow.resources
+C:\Users\Owner\Desktop\Visual studio Projects\OOP\OOP\obj\Debug\OOP.ClientGameWindow.resources
+E:\OOP\OOP\bin\Debug\OOP.exe.config
+E:\OOP\OOP\bin\Debug\OOP.exe
+E:\OOP\OOP\bin\Debug\OOP.pdb
+E:\OOP\OOP\bin\Debug\SocketServer.cs.dll
+E:\OOP\OOP\bin\Debug\SocketServer.cs.pdb
+E:\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+E:\OOP\OOP\obj\Debug\OOP.clientConnectingWindow.resources
+E:\OOP\OOP\obj\Debug\OOP.ClientGameWindow.resources
+E:\OOP\OOP\obj\Debug\OOP.Form1.resources
+E:\OOP\OOP\obj\Debug\OOP.GameWindows.resources
+E:\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+E:\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+E:\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+E:\OOP\OOP\obj\Debug\OOP.csproj.CopyComplete
+E:\OOP\OOP\obj\Debug\OOP.exe
+E:\OOP\OOP\obj\Debug\OOP.pdb
+C:\Users\Owner\Desktop\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\Owner\Desktop\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Owner\Desktop\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Owner\Desktop\OOP\OOP\bin\Debug\SocketServer.cs.dll
+C:\Users\Owner\Desktop\OOP\OOP\bin\Debug\SocketServer.cs.pdb
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.clientConnectingWindow.resources
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.ClientGameWindow.resources
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.Form1.resources
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.GameWindows.resources
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.csproj.CopyComplete
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\Owner\Desktop\OOP\OOP\obj\Debug\OOP.pdb
